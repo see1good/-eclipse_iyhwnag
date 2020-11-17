@@ -7,6 +7,8 @@ public class Hello_world {
 		System.out.print("Hello_World");
 		System.out.print("황인영");
 		System.out.print("20173170");
+		System.out.print("컴퓨터소프트웨어계열");
+
 	}
 
 }
