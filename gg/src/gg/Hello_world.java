@@ -6,6 +6,7 @@ public class Hello_world {
 		// TODO Auto-generated method
 		System.out.print("Hello_World");
 		System.out.print("È²ÀÎ¿µ");
+		System.out.print("20173170");
 	}
 
 }
